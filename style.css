@@ -1,0 +1,60 @@
+/* Write some CSS below : */
+
+/* 1. Global design first : Body, Headers, Colors, Fonts, Font size, Font weight */
+body{
+    border-block-style:;
+    background-color: rgba(109, 211, 191, 100);
+    background: linear-gradient(326deg, rgba(210,22,22,1) 0%, rgba(232,228,145,1) 64%, rgba(0,13,17,1) 100%);
+    
+    text-aligncenter;
+    border-radius 10;
+    padding: 40px;
+    margin: 35px;   
+    border:50;
+}
+
+h1{
+color: rgb(191, 24, 24);
+   
+}
+
+h2{
+
+}
+
+img{
+    width: 150px;
+    border-radius: 50%;
+
+
+}
+
+/* 2. Appearance of html elements : Images, Links (buttons), Divs */
+
+div{2 
+    width: 800px;
+    margin: 30px auto;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+#div3 {div: 3px;
+    background-color: rgb(255, 255, 255);
+    tab-size;
+    font-variant-position: ; 
+}
+h2{color: #a09d8f; 
+
+}
+
+a{
+
+}
+
+#pdp {
+    
+    width: 300px;
+    border-radius: 100px;
+
+}
